@@ -14,7 +14,7 @@ Part II: VacationPy
 ===================
 
 Conclusion Images:
-==================
+
 
 Heat Map of Humidities Across Countries:
 
