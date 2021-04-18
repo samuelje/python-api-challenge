@@ -23,3 +23,7 @@ Heat Map of Humidities Across Countries:
 Heat Map with Available Hotels Based Upon Optimal Weather Conditions:
 
 ![map](https://user-images.githubusercontent.com/79035562/115134814-b72b1500-9fd0-11eb-9f54-34d8701901a1.png)
+
+Example of clicking hotel marker for information:
+
+<img width="715" alt="Heat Map w Showing Click" src="https://user-images.githubusercontent.com/79035562/115134938-e42bf780-9fd1-11eb-8b75-fb5884202325.PNG">
