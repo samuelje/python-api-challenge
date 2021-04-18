@@ -1,4 +1,4 @@
-# python-api-challenge
+## python-api-challenge
 
 Part I: WeatherPy
 =================
@@ -12,9 +12,6 @@ Observations:
 
 Part II: VacationPy
 ===================
-
-Conclusion Images:
-
 
 Heat Map of Humidities Across Countries:
 
