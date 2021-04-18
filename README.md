@@ -1,7 +1,7 @@
 # python-api-challenge
 
 ## Part I: WeatherPy
-====================
+
 
 ### Observations:
 
@@ -11,7 +11,7 @@
 * Based upon the linear regression testing of latitude versus wind speed, we can assume that wind speed is not affected by latitude. Latitude and wind speeds were weakly correlated in comparison to the other weather variables related to latitude. 
 
 ## Part II: VacationPy
-======================
+
 
 ###Heat Map of Humidities Across Countries:
 
