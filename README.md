@@ -18,7 +18,7 @@ Conclusion Images:
 
 Heat Map of Humidities Across Countries:
 
-
+![map (1)](https://user-images.githubusercontent.com/79035562/115134861-2bfe4f00-9fd1-11eb-8158-0aad0f1b9e23.png)
 
 Heat Map with Available Hotels Based Upon Optimal Weather Conditions:
 
